@@ -11,7 +11,7 @@ description: >
 {{< chartaudio >}}
 
 {{< alert title="關於 IPA 轉寫">}}
-本頁面所用國際音標轉寫皆係寬式轉寫，錄音數據來源係粵典。詳情請見[參考文獻](#參考文獻)一節。 
+本頁面所用國際音標轉寫皆係寬式轉寫，錄音數據來源係粵典。詳情請見[參考文獻](#參考文獻)一節。
 {{< /alert >}}
 
 ## 1. 聲母表
@@ -31,7 +31,7 @@ description: >
 <table class="tg">
   <tr>
     <th class="tg-50s5"></th>
-    <th class="tg-ed5u">脣音</th>
+    <th class="tg-ed5u">雙脣音</th>
     <th class="tg-ed5u">脣齒音</th>
     <th class="tg-d9jk">齒齦音</th>
     <th class="tg-d9jk">硬腭音</th>
@@ -297,8 +297,8 @@ description: >
     <td class="tg-ssw7">em 舐 {{< audio id="lem2" >}}</td>
     <td class="tg-ssw7"></td>
     <td class="tg-ssw7">eng 鄭 {{< audio id="zeng6" >}}</td>
-    <td class="tg-ssw7">ep 夾</td>
-    <td class="tg-ssw7">et 坺 </td>
+    <td class="tg-ssw7">ep 夾 {{< audio id="gep6" >}}</td>
+    <td class="tg-ssw7">et 坺 {{< audio id="pet6" >}}</td>
     <td class="tg-ssw7">ek 石 {{< audio id="sek6" >}}</td>
   </tr>
   <tr>
@@ -381,7 +381,7 @@ description: >
 </table>
 
 {{< alert color="secondary">}}
- **a** 同 **oet** 於 2018 年新增。詳情請睇[呢度](https://e40058f5-5f04-4db7-8d70-4650bee22b88.filesusr.com/ugd/508b98_8bead2fef24f46e79eba9bc86faf3075.pdf)。
+**a** 同 **oet** 於 2018 年新增。詳情請睇[呢度](https://e40058f5-5f04-4db7-8d70-4650bee22b88.filesusr.com/ugd/508b98_8bead2fef24f46e79eba9bc86faf3075.pdf)。
 {{< /alert >}}
 
 ## 4. 字調
@@ -418,7 +418,6 @@ description: >
   </tr>
 </table>
 
-
 {{< alert >}}
 聲調標喺音節後面。
 
@@ -428,12 +427,12 @@ fu1 （夫），fu2 （虎）, fu3 （副）, fu4 （扶）, fu5 （婦）, fu6 
 
 ## 參考文獻
 
-Bauer, Robert S., and Paul K. Benedict. 2011. *Modern cantonese phonology*. Vol. 102. Walter de Gruyter
+Bauer, Robert S., and Paul K. Benedict. 2011. _Modern cantonese phonology_. Vol. 102. Walter de Gruyter
 
-Mok, Peggy Pik-Ki, and Peggy, Wai-Yi Wong. 2010. Perception of the merging tones in Hong Kong Cantonese: preliminary data on monosyllables. *Speech Prosody 2010-Fifth International Conference*.
+Mok, Peggy Pik-Ki, and Peggy, Wai-Yi Wong. 2010. Perception of the merging tones in Hong Kong Cantonese: preliminary data on monosyllables. _Speech Prosody 2010-Fifth International Conference_.
 
-Zee, Eric. 1991. Chinese (Hong Kong Cantonese). *Journal of the International Phonetic Association* 21.1: 46-48.
+Zee, Eric. 1991. Chinese (Hong Kong Cantonese). _Journal of the International Phonetic Association_ 21.1: 46-48.
 
-Stephen, Matthews. 1992. *Jyutping 粵拼 - Cantonese Romanization Scheme*. The Linguistic Society of Hong Kong. https://www.lshk.org/jyutping
+Stephen, Matthews. 1992. _Jyutping 粵拼 - Cantonese Romanization Scheme_. The Linguistic Society of Hong Kong. https://lshk.org/jyutping-scheme/
 
-人文電算硏究中心　2003：「粵語審音配詞字庫」，關子尹 主持，“兩文三語敎育網上支援計劃”之工作項目之一，二零零三年一月十二日推出，香港優質敎育基金，存取於二零零七年十一月二十日，<http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/>。
+人文電算硏究中心　 2003：「粵語審音配詞字庫」，關子尹 主持，“兩文三語敎育網上支援計劃”之工作項目之一，二零零三年一月十二日推出，香港優質敎育基金，存取於二零零七年十一月二十日，<http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/>。

@@ -30,7 +30,7 @@ description: >
 <table class="tg">
   <tr>
     <th class="tg-50s5"></th>
-    <th class="tg-ed5u">脣音</th>
+    <th class="tg-ed5u">雙脣音</th>
     <th class="tg-ed5u">脣齒音</th>
     <th class="tg-d9jk">齒齦音</th>
     <th class="tg-d9jk">硬腭音</th>
@@ -294,8 +294,8 @@ description: >
     <td class="tg-ssw7">em 舐 {{< audio id="lem2" >}}</td>
     <td class="tg-ssw7"></td>
     <td class="tg-ssw7">eng 鄭 {{< audio id="zeng6" >}}</td>
-    <td class="tg-ssw7">ep 夾</td>
-    <td class="tg-ssw7">et 坺 </td>
+    <td class="tg-ssw7">ep 夾 {{< audio id="gep6" >}}</td>
+    <td class="tg-ssw7">et 坺 {{< audio id="pet6" >}}</td>
     <td class="tg-ssw7">ek 石 {{< audio id="sek6" >}}</td>
   </tr>
   <tr>
@@ -433,7 +433,7 @@ Zee, Eric. 1991. Chinese (Hong Kong Cantonese). _Journal of the International
 Phonetic Association_ 21.1: 46-48.
 
 Stephen, Matthews. 1992. _Jyutping 粵拼 - Cantonese Romanization Scheme_. The
-Linguistics Society of Hong Kong. https://www.lshk.org/jyutping
+Linguistics Society of Hong Kong. https://lshk.org/jyutping-scheme/
 
 人文電算硏究中心　 2003：「粵語審音配詞字庫」，關子尹 主持，“兩文三語敎育網上支
 援計劃”之工作項目之一，二零零三年一月十二日推出，香港優質敎育基金，存取於二零零
